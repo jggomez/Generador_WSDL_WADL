@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMI-WSDLCreator", "CMI-WSDLCreator\CMI-WSDLCreator.csproj", "{A2B82CD5-D2CE-4025-B55C-13F4D95D4922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMI-WSDLCreator.Logic", "CMI-WSDLCreator.Logic\CMI-WSDLCreator.Logic.csproj", "{4D0796A6-15DD-40A0-AB1E-5FF4FCD5208D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://c2242:8080/tfs/ibmwmb
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CMI-WSDLCreator.Logic\\CMI-WSDLCreator.Logic.csproj
+		SccProjectName1 = CMI-WSDLCreator.Logic
+		SccLocalPath1 = CMI-WSDLCreator.Logic
+		SccProjectUniqueName2 = CMI-WSDLCreator\\CMI-WSDLCreator.csproj
+		SccProjectName2 = CMI-WSDLCreator
+		SccLocalPath2 = CMI-WSDLCreator
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B82CD5-D2CE-4025-B55C-13F4D95D4922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B82CD5-D2CE-4025-B55C-13F4D95D4922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B82CD5-D2CE-4025-B55C-13F4D95D4922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B82CD5-D2CE-4025-B55C-13F4D95D4922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0796A6-15DD-40A0-AB1E-5FF4FCD5208D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0796A6-15DD-40A0-AB1E-5FF4FCD5208D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0796A6-15DD-40A0-AB1E-5FF4FCD5208D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0796A6-15DD-40A0-AB1E-5FF4FCD5208D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator.Logic\bin\Debug\CMI-WSDLCreator.Logic.dll
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator.Logic\bin\Debug\CMI-WSDLCreator.Logic.pdb
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator.Logic\obj\Debug\CMI-WSDLCreator.Logic.csprojResolveAssemblyReference.cache
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator.Logic\obj\Debug\CMI-WSDLCreator.Logic.dll
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator.Logic\obj\Debug\CMI-WSDLCreator.Logic.pdb

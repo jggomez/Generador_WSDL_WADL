@@ -1,0 +1,13 @@
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\bin\Debug\CMI-WSDLCreator.exe.config
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\bin\Debug\CMI-WSDLCreator.exe
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\bin\Debug\CMI-WSDLCreator.pdb
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\bin\Debug\CMI-WSDLCreator.Logic.dll
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\bin\Debug\CMI-WSDLCreator.Logic.pdb
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\obj\Debug\CMI-WSDLCreator.csprojResolveAssemblyReference.cache
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\obj\Debug\CMI_WSDLCreator.frmMethodDescription.resources
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\obj\Debug\CMI_WSDLCreator.frmParametersCreator.resources
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\obj\Debug\CMI_WSDLCreator.frmWSDLCreator.resources
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\obj\Debug\CMI_WSDLCreator.Properties.Resources.resources
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\obj\Debug\CMI-WSDLCreator.csproj.GenerateResource.Cache
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\obj\Debug\CMI-WSDLCreator.exe
+C:\Users\JuanGuillermo\Downloads\dev-1.0.0\CMI-WSDLCreator\obj\Debug\CMI-WSDLCreator.pdb
